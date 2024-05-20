@@ -48,13 +48,11 @@
 }
 
 body {
-    font-family: "Montserrat";
     font-size: 15px;
     box-sizing: border-box;
     padding-left: 0px;
     margin: 0;
     background-color:rgb(253, 253, 252);
-    background-image: url("");
     overflow-x: hidden;
 }
 
