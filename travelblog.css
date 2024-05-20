@@ -60,25 +60,6 @@ body {
     overflow-x: hidden;
 }
 
-/*
-.destinations-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 20px; 
-}
-
-.destinations-container figure {
-    margin: 0;
-}
-
-.destinations-container figure img {
-    width: 100%;
-    border-radius: 10px;
-    display: block;
-    margin: 0 auto;
-}
-*/
 img{
     width: 400px;
     border-radius:10px;
@@ -108,27 +89,6 @@ header{
     margin:10px;
     
 }
-
-/*.text-container.fade-in  {
-    opacity: 0;
-    transform: translateY(-20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
-}
-
-.fade-in.show {
-    opacity: 1;
-    transform: translateY(0);
-}
-
-.text-container.fade-out.hide {
-    opacity: 0;
-    transform: translateY(-20px);
-}
-.text-container.fade-out {
-    opacity: 0;
-    transform: translateY(-20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
-}*/
 
 .reveal{
     position: relative;
